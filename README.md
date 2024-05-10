@@ -13,7 +13,6 @@ Criamos um espaço seguro e confidencial onde você pode buscar ajuda e encontra
 
 * Fornecer suporte e orientação personalizados
 * Oferecer informações abrangentes sobre direitos, serviços e opções
-* Conectar você a uma rede de organizações e profissionais de apoio
 
 ### Para Quem Servimos
 Se você é uma mulher que está passando por violência doméstica, violência sexual ou qualquer outra forma de violência, queremos que saiba que você não está sozinha. Estamos aqui para ajudar.
